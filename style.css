@@ -128,7 +128,7 @@ img {
 
 	}
 }
-@media(maxwidth: 876px)
+@media(max-width: 876px)
 
 {
 	.container .countdownIP h2 {
