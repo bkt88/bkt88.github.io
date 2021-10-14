@@ -1,4 +1,4 @@
-const countDownDate = new Date('Oct 15, 2021 8:59:59').getTime();
+const countDownDate = new Date('Oct 15, 2021 15:59:59').getTime();
  
 function lauched(){
     const now = new Date().getTime();
